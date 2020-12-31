@@ -24,6 +24,7 @@ class ViewController: NSViewController {
      */
     func addNumbers(num1: Int, num2: Int) -> Int {
         print("Thing1")
+        print("Thing2")
         return num1 + num2
     }
 
