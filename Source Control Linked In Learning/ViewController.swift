@@ -15,11 +15,8 @@ class ViewController: NSViewController {
         // Do any additional setup after loading the view.
     }
 
-/* apples */
     /**
      Adds two numbers together and returns the result. MODIFIED. AGAIN.
-     FOURTH!
-     And NOW FIFTH!
      - parameter num1: The first number.
      - parameter num2: The second number.
      - returns: The sum of num1 and num2.
